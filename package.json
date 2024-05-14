@@ -1,0 +1,22 @@
+{
+  "name": "project-practice",
+  "version": "1.0.0",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/djones1844/project-practice.git"
+  },
+  "author": "Daniel Jones",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/djones1844/project-practice/issues"
+  },
+  "homepage": "https://github.com/djones1844/project-practice#readme",
+  "description": "",
+  "dependencies": {
+    "express": "^4.19.2"
+  }
+}
